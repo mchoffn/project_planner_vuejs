@@ -2,9 +2,33 @@
   "projects": [
     {
       "id": 2,
-      "title": "ryd op derhjemme",
+      "title": "ryd op derhjemme - i morgen tak",
       "details": "Lorem ipsum",
       "complete": false
+    },
+    {
+      "id": 1,
+      "title": "ryd op derhjemme",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "ryd op i din garage",
+      "details": "helst i morgen :)",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "ddd",
+      "details": "dddd",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "dsfdsfs",
+      "details": "sdfdfsf",
+      "complete": false,
+      "id": 5
     }
   ]
 }
